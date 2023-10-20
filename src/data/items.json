@@ -1,26 +1,38 @@
 [
     {
       "id": 1,
-      "name": "Livro",
-      "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "name": "Headset Gamer",
+      "price": 300,
+      "imgUrl": "/imgs/headset.png"
     },
     {
       "id": 2,
       "name": "Computador",
       "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "imgUrl": "/imgs/notebook.jpg"
     },
     {
       "id": 3,
-      "name": "Banana",
-      "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "name": "Mouse Simples",
+      "price": 35,
+      "imgUrl": "/imgs/mouse.jpeg"
     },
     {
       "id": 4,
-      "name": "Carro",
+      "name": "Teclado Gamer",
       "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
+      "imgUrl": "/imgs/teclado.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pen Drive 128GB",
+      "price": 110,
+      "imgUrl": "/imgs/pendrive.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Camera para PC",
+      "price": 50,
+      "imgUrl": "/imgs/camera.png"
     }
   ]
